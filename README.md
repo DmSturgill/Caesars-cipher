@@ -12,5 +12,5 @@ I developed the prototype of this Application following along a youtube tutorial
 
  LONG TERM GOALS:
  * 1.Implement GUI with javaFX 
- * 2.Add a login and landing page to save converted phrases? 
+ * 2.Add a login and landing page to save converted phrases?
  * 3. Different kinds of cyphers available to user?
